@@ -1,3 +1,5 @@
 {
+    "end-of-life": "The plugin has been renamed to org.freedesktop.LinuxAudio.Plugins.setBfree",
+    "end-of-life-rebase": "org.freedesktop.LinuxAudio.Plugins.setBfree",
     "skip-icons-check": true
 }
